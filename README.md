@@ -1,8 +1,5 @@
 # Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games
 
-
-Here are the sorted links:
-
 - ![finall_report_Page_01](https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games/assets/78053151/37fc9b3b-4916-4239-8555-1e1d11f1dd36)
 - ![finall_report_Page_02](https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games/assets/78053151/5337f61b-2329-47d8-bb11-9fc7d743a6a4)
 - ![finall_report_Page_03](https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games/assets/78053151/e3e016e3-9a29-44bb-b3f4-5056af602853)
